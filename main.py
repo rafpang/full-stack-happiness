@@ -16,8 +16,8 @@ if __name__ == '__main__':
     
     #Ingest data
     master_df = pd.read_excel('happiness_data.xlsx', header = 1, na_values = '..')
-    trust_df = pd.read_csv('/content/DP_LIVE_15092022141010965.csv')
-    codes_df = pd.read_excel('/content/country_codes.xlsx')
+    trust_df = pd.read_csv('DP_LIVE_15092022141010965.csv')
+    codes_df = pd.read_excel('country_codes.xlsx')
     master_df= master_df.drop(master_df[master_df.Country == 'OECD - Total'].index)
     
 
