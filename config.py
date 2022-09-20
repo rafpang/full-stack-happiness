@@ -1,5 +1,0 @@
-HOST_NAME = 'aws-happy.cjrww6r7ocgf.ap-southeast-1.rds.amazonaws.com'
-DBNAME = 'postgres'
-PORT = '5432'
-USERNAME = 'rafpang'
-PASSWORD = 'Rafpang!0506'
