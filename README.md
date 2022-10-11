@@ -10,6 +10,8 @@ All of them have been changed to a series of hashtags (#) in the `config.py` fil
 ## Tableau Link
 Check out the Tableau viz here: https://public.tableau.com/views/country_happiness_16652571153560/Main?:language=en-US&:display_couant=n&:origin=viz_share_link
 
-# Original datasets
+## Original datasets
 
-https://stats.oecd.org/index.aspx?DataSetCode=BLI
+Original BLI dataset: https://stats.oecd.org/index.aspx?DataSetCode=BLI 
+Government trust data: https://data.oecd.org/gga/trust-in-government.htm
+3 letter abbreviation of countries (credit to lukes/Luke Duncalfe): https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv
